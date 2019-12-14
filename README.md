@@ -1,3 +1,3 @@
 # ChromePassReader
 
-Admin tool for quickly backup Google Chrome passwords.
+Admin tool for quickly backup Google Chrome passwords. (Windows only)
